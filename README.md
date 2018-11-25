@@ -1,7 +1,8 @@
 # ninja-smoothies
 
 > A Vue.js project
-> Not all my code. It's what I wrote when I followed a udemy tutorial on Vue.
+
+Not all my code. It's what I wrote when I followed a udemy tutorial on Vue.
 
 ## Build Setup
 
